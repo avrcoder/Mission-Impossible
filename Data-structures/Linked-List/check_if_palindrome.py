@@ -88,3 +88,6 @@ llist.push('a')
 print llist.chackpali()
 # llist.printlist()
 # res = llist.merge(llist)
+
+
+#There is also another method which can be utilized but it requires and extra space of O(n). This method is with the help of stack.
